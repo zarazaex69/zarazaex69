@@ -1,16 +1,23 @@
-## Hi there 👋
+![Аватар Derx](https://raw.githubusercontent.com/derxanax/derxanax.github.io/refs/heads/main/avatar.png)
 
-<!--
-**zarazaex69/zarazaex69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏴‍☠ Привет, я Derx[88] / Derxanax 🎱
 
-Here are some ideas to get you started:
+__15 y.o__
+## 💻 Мой стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Zig](https://img.shields.io/badge/-Zig-EC9221?style=flat-square&logo=zig&logoColor=white)
+
+## 📊 GitHub Статистика
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=derxanax&show_icons=true&theme=radical)
+
+---
+
+![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=derxanax&layout=compact&theme=radical)
+
+## 📱 Как связаться
+- 💬 Telegram: [@derx88](https://t.me/derx88)
+- 📧 Email: derx@tuta.io
