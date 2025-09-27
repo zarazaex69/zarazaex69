@@ -1,4 +1,4 @@
-![Аватар Derx](https://raw.githubusercontent.com/derxanax/derxanax.github.io/refs/heads/main/avatar.png)
+![Аватар Derx](https://avatars.githubusercontent.com/u/231401743?v=4)
 
 # 🏴‍☠ Привет, я Derx[88] / Derxanax 🎱
 
