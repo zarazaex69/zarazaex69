@@ -12,12 +12,13 @@ __14 y.o__
 
 ## 📊 GitHub Статистика
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=derxanax&show_icons=true&theme=radical)
+![Статистика](https://github-readme-stats.vercel.app/api?username=zarazaex69&show_icons=true&theme=radical)
 
 ---
 
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=derxanax&layout=compact&theme=radical)
+![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=zarazaex69&layout=compact&theme=radical)
 
 ## 📱 Как связаться
 - 💬 Telegram: [@derx88](https://t.me/derx88)
-- 📧 Email: derx@tuta.io
+- 📧 Email: zarazaex@tuta.io
+- 🌐 Site: zarazaex.xyz
