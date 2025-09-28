@@ -2,7 +2,7 @@
 
 # 🏴‍☠ Привет, я Derx[88] / Derxanax 🎱
 
-__15 y.o__
+__14 y.o__
 ## 💻 Мой стек
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
