@@ -2,7 +2,6 @@
 
 # Hi, im zarazaex[88]
 
----
 
 ## 💻 My stack
 
@@ -16,7 +15,7 @@
 
 ![Stat](https://github-readme-stats.vercel.app/api?username=zarazaex69&show_icons=true&theme=radical)
 
----
+
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarazaex69&layout=compact&theme=radical)
 
