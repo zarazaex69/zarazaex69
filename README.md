@@ -19,6 +19,6 @@ __14 y.o__
 ![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=zarazaex69&layout=compact&theme=radical)
 
 ## 📱 Как связаться
-- 💬 Telegram: [@derx88](https://t.me/zarazaex)
+- 💬 Telegram: [@zarazaexe](https://t.me/zarazaexe)
 - 📧 Email: zarazaex@tuta.io
 - 🌐 Site: zarazaex.xyz
