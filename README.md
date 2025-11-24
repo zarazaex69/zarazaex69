@@ -11,14 +11,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-EC9221?style=flat-square&logo=zig&logoColor=white)
 
-## 📊 GitHub stats
-
-![Stat](https://github-readme-stats.vercel.app/api?username=zarazaex69&show_icons=true&theme=radical)
-
-
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarazaex69&layout=compact&theme=radical)
-
 ## 📱 Сontacts
 - 💬 Telegram: [@zarazaexe](https://t.me/zarazaexe)
 - 📧 Email: zarazaex@tuta.io
