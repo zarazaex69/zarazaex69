@@ -12,6 +12,6 @@
 ![Zig](https://img.shields.io/badge/-Zig-EC9221?style=flat-square&logo=zig&logoColor=white)
 
 ### 📱 Сontacts
-- 💬 Telegram: [@zarazaex](tg://user?id=7504118464)
-- 📧 Email: zarazaex@tuta.io
-- 🌐 Site: [zarazaex.xyz](https://zarazaex.xyz)
+- 💬 Telegram: <a href="tg://user?id=7504118464">zarazaex</a> 
+ - 📧 Email: zarazaex@tuta.io
+  - 🌐 Site: [zarazaex.xyz](https://zarazaex.xyz)
