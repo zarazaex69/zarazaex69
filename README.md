@@ -1,6 +1,6 @@
 ![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
 
-# Hi, im zarazaex[88]
+# Hi, im zarazaex
 
 
 ## 💻 My stack
@@ -11,7 +11,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-EC9221?style=flat-square&logo=zig&logoColor=white)
 
-## 📱 Сontacts
+### 📱 Сontacts
 - 💬 Telegram: [@zarazaex](tg://user?id=7504118464)
 - 📧 Email: zarazaex@tuta.io
 - 🌐 Site: [zarazaex.xyz](https://zarazaex.xyz)
