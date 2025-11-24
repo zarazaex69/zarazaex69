@@ -1,8 +1,6 @@
-![Аватар Derx](https://avatars.githubusercontent.com/u/231401743?v=4)
+![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
 
-# Hi, im zarazaexe[88]
-
-__14 y.o__
+# Hi, im zarazaex[88]
 
 ---
 
