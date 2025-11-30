@@ -15,3 +15,4 @@
 - 💬 Telegram: [zarazaex](https://t.me/zarazaexe)
  - 📧 Email: zarazaex@tuta.io
   - 🌐 Site: [zarazaex.xyz](https://zarazaex.xyz)
+    - 🧊 Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe/)
