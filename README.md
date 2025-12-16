@@ -8,7 +8,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-EC9221?style=flat-square&logo=zig&logoColor=white)
 ![C](https://img.shields.io/badge/-C-797E82?style=flat-square&logo=C&logoColor=white)
-
+---
 
 ### Сontacts
 - 💬 Telegram: [zarazaex](https://t.me/zarazaexe)
