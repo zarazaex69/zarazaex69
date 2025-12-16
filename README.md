@@ -3,7 +3,7 @@
 # Hi, im zarazaex
 
 
-## 💻 My stack
+## My stack
 
 ![Golang](https://img.shields.io/badge/-Golang-089ABA?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -13,7 +13,7 @@
 ![C](https://img.shields.io/badge/-C-797E82?style=flat-square&logo=C&logoColor=white)
 
 
-### 📱 Сontacts
+### Сontacts
 - 💬 Telegram: [zarazaex](https://t.me/zarazaexe)
  - 📧 Email: zarazaex@tuta.io
   - 🌐 Site: [zarazaex.xyz](https://zarazaex.xyz)
