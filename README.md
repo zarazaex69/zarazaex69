@@ -1,6 +1,6 @@
-![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
-
 # Hi, im zarazaex
+
+![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
 
 ![Golang](https://img.shields.io/badge/-Golang-0D1117?style=flat-square&logo=go&logoColor=00A7D0)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=377CC8)
