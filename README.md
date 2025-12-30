@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, im zarazaex
 
 ![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
@@ -10,8 +12,18 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=C&logoColor=ACB4B8)
 ![Bun](https://img.shields.io/badge/-Bun-0D1117?style=flat-square&logo=Bun&logoColor=F3E6D8)
 
-### Сontacts
--  Telegram: [zarazaex](https://t.me/zarazaexe)
- -  Email: zarazaex@tuta.io
-  -  Web: [zarazaex.xyz](https://zarazaex.xyz)
-   -  Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe/)
+---
+
+### Contacts
+
+Telegram: [zarazaex](https://t.me/zarazaexe)
+<br>
+Email: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
+<br>
+Site: [zarazaex.xyz](https://zarazaex.xyz)
+<br>
+<br>
+Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe/)
+<br>
+
+</div>
