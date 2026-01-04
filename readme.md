@@ -17,13 +17,12 @@
 ### Contacts
 
 Telegram: [zarazaexe](https://t.me/zarazaexe)
-<be>
-Alt Telegram: [zarazaex]
-(https://zarazaex>
+<br>
+Alt Telegram: [zarazaex](https://zarazaex)
+<br>
 Email: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
 <br>
 Web: [zarazaex.xyz](https://zarazaex.xyz)
-<br>
 <br>
 Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe/)
 <br>
