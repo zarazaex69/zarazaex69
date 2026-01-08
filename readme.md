@@ -18,7 +18,7 @@
 
 Telegram: [zarazaexe](https://t.me/zarazaexe)
 <br>
-Alt Telegram: [zarazaex](https://zarazaex)
+Alt Telegram: [zarazaex](https://t.me/zarazaex)
 <br>
 Email: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
 <br>
