@@ -22,7 +22,7 @@ Email: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
 <br>
 Web: [zarazaex.xyz](https://zarazaex.xyz)
 <br>
-Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe/)
+Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe)
 <br>
 
 </div>
