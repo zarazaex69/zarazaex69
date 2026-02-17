@@ -24,6 +24,6 @@ Web: [zarazaex.xyz](https://zarazaex.xyz)
 <br>
 Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe)
 <br>
-Yo: 14
+Yo: 13
 
 </div>
