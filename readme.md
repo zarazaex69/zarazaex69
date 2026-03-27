@@ -11,6 +11,8 @@
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=C93C28)
 ![Golang](https://img.shields.io/badge/-Golang-0D1117?style=flat-square&logo=go&logoColor=00A7D0)
 ![Bun](https://img.shields.io/badge/-Bun-0D1117?style=flat-square&logo=Bun&logoColor=F3E6D8)
+![Nim](https://img.shields.io/badge/-Nim-0D1117?style=flat-square&logo=Nim&logoColor=fee955)
+
 
 ---
 
