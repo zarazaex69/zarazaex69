@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, im zarazaex / e / 69
+# im zarazaex / e / 69
 
 ![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
 
@@ -14,18 +14,14 @@
 ![Nim](https://img.shields.io/badge/-Nim-0D1117?style=flat-square&logo=Nim&logoColor=fee955)
 
 
----
+<a href="https://github.com/zarazaex69"><img src="https://count.owenewans.org/zarazaex69?theme=gelbooru" alt="commit cnt"></a>
 
-### Contacts
+#### contacts
 
-Telegram: [zarazaex](https://t.me/zarazaex)
+mail: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
 <br>
-Email: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
+web: [zarazaex.xyz](https://zarazaex.xyz)
 <br>
-Web: [zarazaex.xyz](https://zarazaex.xyz)
-<br>
-Web: [zarazaex.dev](https://zarazaex.dev)
-<br>
-Habr: [zarazaexe](https://habr.com/ru/users/zarazaexe)
+habr: [zarazaexe](https://habr.com/ru/users/zarazaexe)
 
 </div>
