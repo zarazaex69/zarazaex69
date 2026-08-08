@@ -2,9 +2,6 @@
 
 # im zarazaex / e / 69
 
-![Avatar](https://avatars.githubusercontent.com/u/231401743?v=4)
-
-
 ![Fortran](https://img.shields.io/badge/-Fortran-0D1117?style=flat-square&logo=Fortran&logoColor=0089e7)
 ![C](https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=C&logoColor=ACB4B8)
 ![Zig](https://img.shields.io/badge/-Zig-0D1117?style=flat-square&logo=zig&logoColor=EF9F1C)
