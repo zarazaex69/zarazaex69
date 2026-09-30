@@ -17,8 +17,6 @@
 
 mail: [zarazaex@tuta.io](mailto:zarazaex@tuta.io)
 <br>
-web: [zarazaex.xyz](https://zarazaex.xyz)
-<br>
 habr: [zarazaexe](https://habr.com/ru/users/zarazaexe)
 
 </div>
